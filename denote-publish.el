@@ -4,7 +4,7 @@
 
 ;; Author: Vedang Manerikar <vedang.manerikar@gmail.com>
 ;; Version: 0.1.0
-;; Package-Requires: ((emacs "28.1") (denote "3.1") (ox-gfm "0.1"))
+;; Package-Requires: ((emacs "28.1") (denote "3.1") (ox-gfm))
 ;; Keywords: hypermedia, text, denote
 ;; URL: https://github.com/vedang/denote-publish
 
